@@ -1,0 +1,9 @@
+src/*.ts linguist-detectable
+docs/*.html linguist-vendored
+* text=auto
+
+docs/index.html linguist-vendored
+*.min.js linguist-generated
+
+*.svg text
+src/** linguist-detectable
